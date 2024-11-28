@@ -21,7 +21,6 @@ definePageMeta({
         <YlfFormItem label="离开网页后保留选中数据">
           <YlfSwitch v-model="app.settings.keepLocalData" />
         </YlfFormItem>
-        <YlfFormItem label="更多设置，敬请期待" />
       </YlfForm>
     </div>
   </div>

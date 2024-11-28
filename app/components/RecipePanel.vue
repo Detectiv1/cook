@@ -54,11 +54,6 @@ const showTooltip = computed(() => !selectedStuff.value.length && !curTool.value
           </a>
           <span>？</span>
           <br>
-          <div m="t-1">
-            <span>欢迎来</span>
-            <a class="text-blue-600 font-bold dark:text-blue-400" href="https://docs.qq.com/sheet/DQk1vdkhFV0twQVNS?tab=uykkic" target="_blank">这里</a>
-            <span>反馈新的菜谱！</span>
-          </div>
         </div>
       </Transition>
     </div>
